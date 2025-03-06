@@ -1,6 +1,4 @@
-# Dating-App-UI-React-Native
-
-![Image](https://cdn.dribbble.com/userupload/12065697/file/original-6786badca9a32f86fdf8582ef150a6de.png?resize=1504x846)
+# Dating-App-UI
 
   
   <p align="left">
